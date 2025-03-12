@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+font-family: 'Quicksand', sans-serif;
+font-weight: 300; /* Ensure you use the correct font weight that you have imported */
+}
